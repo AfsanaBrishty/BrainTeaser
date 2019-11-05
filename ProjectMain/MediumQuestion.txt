@@ -1,0 +1,20 @@
+1;Which is the language used in Bihar?;Hindi;Marathi;Urdu;Bangla;A;Medium;1
+2;Lala Lajpat Rai is also known as;Sher-e-Punjab;Punjab Kesari;both (a) and (b);None of the above;C;Medium;2
+3;Modern Indo-Aryan languages are based on an ancient language called;Hindi;Sanskrit;Kannada;Tamil;B;Medium;3
+4;Lakshmibai National College of Physical Education is located at ;Bhopal;Gwalior;Karnal;Patiala;B;Medium;4
+5;Which team won the 2015 Women's World Cup?;USA;Canada;Germany;Japan;A;Medium;5
+6;Which country finished fourth in the World Cup in 2014?;Holland;Brazil;Italy;Argentina;B;Medium;6
+7;Number of commands of Air Force are;5;6;7;8;C;Medium;7
+8;Which country won the first football World Cup?;Argentina;Germany;Brazil;Uruguay;D;Medium;8
+9;How much was the prize money awarded to the World Cup winning team France at the tournament?;22 million dollars;26 million dollars;32 million dollars;38 million dollars;D;Medium;9
+10;Courtois who was awarded the Golden Glove award for the best goalkeeper at the World Cup 2018 is from which country?;Croatia;France;England;Belgium;D;Medium;10
+1;In which country would you find the world's largest football stadium?;North Korea;Spain;Mexico;China;A;Medium;11
+2;Who won the European Cup in 1970?;Ajax;Argentina;Feyenord;PSV Einfhoven;C;Medium;12
+3;Which football club does David Beckham play for?;Manchester United;Liverpool;Real Madrid;Montevideo Wanderers;C;Medium;13
+4;Which cricketer has the best bowling figures in an innings at the World Cup?;Ajit Agarkar;Ashish Nehra;Kapil Dev;V Prasad;B;Medium;14
+5;Which cricketer has scored the most ducks at the World Cup?;Ajit Agarkar;Sachin Tendulkar;K Srikkanth;J Srinath;C;Medium;15
+1;Who was selected for the Man of the Match Award in the finals of World Cup 2018?;Antoine Griezman;Kylian Mbappe;Paul Pogba;Raphael Varane;A;Medium;16
+2;Which cricketer has the best economy rate at the World Cup?;Anil Kumble;Harbhajan Singh;Kapil Dev;V Prasad;A;Medium;17
+3;Who was the first bangladeshi to score 200 in Test Match?;Mushfiqur Rahim;Tamim Iqbal;Shakib Al Hasan;Nasir Hossain;A;Medium;18
+4;In Which Year Bangladesh Played its first Test match?;2003;1999;1995;200;D;Medium;19
+5;Who is the left hand batsmen in Bangladeshi Team from these?;Tamim and Shakib;Mushfiqur and Mahmudullah;Nasir and Anamul Haque;Sabbir and Shafiul;D;Medium;20

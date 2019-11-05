@@ -1,0 +1,30 @@
+﻿1;How long does it take for the Earth to go around the Sun?;One year;Two year;Three year;Four year;A;Easy;1
+2;What is the biggest planet in our solar system?;Uranus;Earth;Jupiter;Mars;C;Easy;2
+3;Another name for a tidal wave is a?;Tsunami;Nargis;cyclone;Disaster;C;Easy;3
+4;What is the 7th element on the periodic table of elements?;Oxygen;Nitrogen;Silicon;Iron;B;Easy;4
+1;The fear of what animal is known as ‘arachnophobia’?;Ant;Elephant;Spiders;Monkey;C;Easy;5
+2;What famous scientist was awarded the 1921 Nobel Prize in Physics for his work on theoretical physics?;Stephen Hawking;Newton;Galileo;Albert Einstein;D;Easy;6
+3;Pure water has a pH level of a around?;5;6;7;8;C;Easy;7
+4;The mode of nutrition in amoeba is ......................;holophytic;parasitic;holozoic;saprophytic;D;Easy;8
+5;Fishes are a good source of ....................;Lipids;Protein;Fats;Carbohydrates;B;Easy;9
+6;An enzyme found in the saliva is;Amylase;Pectinase;Mucin;Pepsin;A;Easy;10
+7;Ordinary table salt is sodium chloride. What is baking soda?;Potassium chloride;Potassium carbonate;Potassium hydroxide;Sodium bicarbonate;D;Easy;;11
+8;Plants receive their nutrients mainly from;Soil;Atmosphere;Light;Chlorophyll;A;Easy;12
+9;Most highly intelligent mammals are;Whales;Dolphins;Elephants;Kangaroos;B;Easy;13
+10;Ramapithecus and Cro-Magnon man are considered;Ancestors of modern man;Ancestors of monkey;Ancestors of ion;None of the above;A;Easy;14
+1;Plants wilt due to excess of;transpiration;photosynthesis;absorption;none of these;A;Easy;15
+2;Movements due to light are shown by;flowering plants;lower plants;all land plants;all the plants;A;Easy;16
+3;Outer covering of virus made up of protein is;capsid;coat;virion;viriod;A;Easy;17
+4;Which was the last English club to win the Europa League?;Chelsea;Arsenal;Liverpool;Fulham;A;Easy;18
+5;Which of these players was born in England?;;;;;D;Easy;Owen Hargreaves;Wilfred Zaha;Raheem Sterling;Vinnie Jones;D;Easy;19
+6;With which sport is the Jules Rimet trophy associated?;Basketball ;Football;Hockey;Golf;B;Easy;20
+7;Modern football is said to have evolved from;England;India;France;Spain;A;Easy;21
+8;Malfunctioning of which of the following organs causes jaundice?;Stomach;Pancreas;Liver;Kidney;C;Easy;22
+9;How many penalties are usually taken in a penalty shoot-out?;1;5;3;12;B;Easy;23
+10;Who won the 1998 Football World Cup Final?;Germany;Portugal;Brazil;France;D;Easy;24
+1;Which city has the most clubs competing in its country's top division?;Moscow;Rome;Tokyo;London;D;Easy;25
+1; When did Bangladesh become an independent country?;1965;1971;1975;1981;B;Easy;26
+2;Who was assassinated on 15 August 1975?;Zia ur Rahman;Tikka Khan;Zia ul Haq;Sheikh Mujibur Rahman;D;Easy;27
+1;sgvdfghdgh;dfghhfg;dfhjr;dfhfghgh;rtuyuy;A;Easy;28
+2;rtyrturuur;eryru;tryer;urtrtrtrtrtrtuy;erwewy;A;Easy;29
+3;rtyrruty;rtyruyuy;ertytytyry;yrtyryryery;tyrryyytry;A;Easy;30

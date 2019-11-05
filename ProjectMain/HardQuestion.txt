@@ -1,0 +1,13 @@
+6;Logarithm tables were invented by;John Napier;John Doe;John Harrison;John Douglas;A;Hard;1
+7;Karoline Mikkelsen was the first woman to;reach North Pole;reach South Pole;Climb Mt. Everest;Set foot on the moon;B;Hard;2
+8;What kind of animal was Zabivaka, the mascot for FIFA World Cup 2018?;Tiger;Cat;Polar Bear;Wolf;D;Hard;31;Who was the captain of the 2018 World Cup winning team of France?;Hugo Lloris;Paul Pogba;Kylian Mbappe;Antoinne Griezmann;A;Hard;4
+2;Which of the following was the official song of the FIFA World Cup 2018?;All in one rhythm;Live it up;Go for it;Football in space;B;Hard;5
+3;Who has the record for scoring the most goals in World Cup history?;Ronaldo;Diego Maradona;Miroslav Klose;Lionel Messi;C;Hard;6
+4;Which team scored the highest number of goals at the FIFA World Cup 2018?;Belgium;France;England;Croatia;A;Hard;7
+5;In which year the Word Cup matches reduced to 50 overs from the previous 60 overs?;1983;1979;1992;1987;D;Hard;8
+6;India's first win in a World Cup match was against?;Sri lanka;West indies;Newzeland;England;B;Hard;9
+7;Which cricketer had scored most test runs in a calendar year?;V V S Laxman;Rahul Dravid;Md Yusuf;Steve Waugh;C;Hard;10
+8;What is PCL Full Abbreviation?;Paradise Cable Limited;Park City Limited;Pakistan Cricket Limited;Pearl Curl Lackview;A;Hard;11
+9;Who was known as "Shilpacharya", meaning Maestro of Art?;Shahabuddin;Jaynul Abedin;S M Sultan;Kamrul Hasan;B;Hard;12
+1;How many kilometeres of coastline does Bangladesh have?;1,682;257;2,798;580;D;Hard;13
+2;Which cricketer had scored fastest century in Test cricket?;Adam Gilchrist;Misbah-ul-Haq;Brendon McCullum;Vivian Richards;C;Hard;14
